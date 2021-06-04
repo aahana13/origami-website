@@ -1,0 +1,25 @@
+h1{
+    color:rgb(250, 116, 111)
+}
+h4{
+    color:rgb(238, 155, 77)
+}
+h3{
+    color:rgb(64, 199, 105)
+}
+*{
+   border: solid;
+   border-color: rgb(245, 242, 99);
+   background-color :rgb(185, 196, 209)
+}
+
+
+.header{
+	 background-color :rgb(206, 146, 224)
+}
+
+.item{
+    background-color :rgb(218, 127, 190);
+    display: flex;
+    justify-content: space-between;
+}
